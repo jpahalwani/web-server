@@ -1,3 +1,3 @@
 function clickBtn(){
-    alert("Button is clicked");
+    alert("The button is clicked");
 };
